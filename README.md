@@ -1,1 +1,1 @@
-# angular-laravel-todo-list
+# Angular laravel todo-list
